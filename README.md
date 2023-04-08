@@ -1,5 +1,5 @@
 # Force Manipulation
-[!https://ibb.co/jRpCCFV]
+![Gameplay image](https://ibb.co/jRpCCFV)
  
 ## Build
 Download the game from [Itch.io](https://articunatu.itch.io/force-manipulation)
